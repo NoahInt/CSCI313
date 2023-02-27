@@ -1,0 +1,42 @@
+﻿
+body {
+    background-color: #DCDCDC;
+    padding: 50px;
+}
+
+header {
+    font-family: "Copperplate", fantsy;
+}
+
+
+img {
+    margin: 0 30px 30px 0;
+    float: left;
+}
+
+a {
+    display: inline; 
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 1px solid blue;
+    background-color: tomato;
+}
+
+text {
+    display: inline;
+}
+
+
+p {
+    text-indent: 50px;
+}
+
+
+table, th, td {
+    border: 1px solid;
+}
+
+table {
+    border-collapse: collapse;
+}
